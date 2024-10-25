@@ -20,3 +20,7 @@ Descreva aqui os passos que utilizou para testar estas alterações
 - [ ] Eu adicionei testes que provam que minha alteração é efetiva ou que minha funcionalidade funciona
 - [ ] Testes novos e existentes passaram localmente com as minhas alterações
 - [ ] Quaisquer conflitos foram corrigidos, mergeados e publicados
+
+# Notas
+
+Coloque aqui qualquer anotação ou comentário adicional
